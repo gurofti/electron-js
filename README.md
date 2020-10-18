@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Electron Add
+```
+vue add electron-builder
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
